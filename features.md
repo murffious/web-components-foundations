@@ -4,11 +4,15 @@
 
 | Feature | Premium  | Standard  |
 |:-------:|----------|-----------|
-|    Notifications - in app     |          |           |
-|     Notifications - in app     |          |           |
-|         |          |           |
+|     Notifications - in app WEB     |   ex Facebook - da da da       |           |
+|     Notifications - in app Phone    |          |           |
+|     Notifications - Email   |  Costco We’ve Saved Your Shopping Cart For You, Don't miss out , Forget Something ... promo 
+        |           |
 
 
 Fun object lesson:
 
 (Get what you pay for and be very specific)[https://youtu.be/x9wn633vl_c]
+
+
+**long term turn this into a select form taking user input** 
