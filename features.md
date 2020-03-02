@@ -19,3 +19,6 @@ Fun object lesson:
 
 
 **long term turn this into a select form taking user input** 
+
+
+There is a new version of Asana available - CLICK REFRESH or cancel out - Nice soft pop up
