@@ -7,3 +7,7 @@
 
 ### Ever changing web (newest)
 - Touch 
+
+### Social Feeds 
+- Likes
+- People seen - track user id when it gets downloaded for that user 
